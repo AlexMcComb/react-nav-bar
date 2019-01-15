@@ -1,2 +1,2 @@
-# react-nav-bar
-see glitch branch
+
+# React header bar challenge starting point
